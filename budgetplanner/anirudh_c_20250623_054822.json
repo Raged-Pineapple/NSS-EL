@@ -1,0 +1,142 @@
+{
+  "user_name": "Anirudh C",
+  "salary": 500000.0,
+  "optimized_expenses": [
+    {
+      "expense_type": "Fixed",
+      "category": "Food",
+      "name": "Groceries",
+      "amount": 50000,
+      "priority": ""
+    },
+    {
+      "expense_type": "Fixed",
+      "category": "Housing",
+      "name": "Rent",
+      "amount": 150000,
+      "priority": ""
+    },
+    {
+      "expense_type": "Fixed",
+      "category": "Other",
+      "name": "School Fees",
+      "amount": 90000,
+      "priority": ""
+    },
+    {
+      "expense_type": "Reducible",
+      "category": "Personal Care",
+      "name": "Badminton",
+      "amount": 60000.0,
+      "priority": "Medium"
+    }
+  ],
+  "emi_recommendation": {
+    "selected_plans": [
+      {
+        "name": "Home Loan",
+        "amount": 5000000,
+        "interestRate": 8.5,
+        "durationMonths": 240,
+        "necessity": 8,
+        "monthlyPayment": 43391.161668276705
+      },
+      {
+        "name": "Car Loan",
+        "amount": 500000,
+        "interestRate": 9.2,
+        "durationMonths": 60,
+        "necessity": 6,
+        "monthlyPayment": 10427.778032942144
+      }
+    ],
+    "alternative_plans": [],
+    "recommendation": "Based on your financial data, here are the recommended EMI plans that fit your budget and criteria."
+  },
+  "advice": {
+    "alerts": [],
+    "tips": [
+      "Try the 50/30/20 rule: 50% for needs, 30% for wants, and 20% for savings.",
+      "Consider automating your savings by setting up automatic transfers.",
+      "Review your subscriptions and cancel those you don't use regularly.",
+      "Look for ways to increase your income through side gigs or skill development."
+    ]
+  },
+  "smart_model_summary": {
+    "detailed_analysis": [
+      {
+        "header": "1. Budget Analysis",
+        "body": "Monthly Income: ₹500,000.00
+
+Fixed Expenses:
+  - Groceries: ₹50,000.00
+  - Rent: ₹150,000.00
+  - School Fees: ₹90,000.00
+
+Reducible Expenses:
+  - Badminton: ₹60,000.00
+
+EMI Payments:
+  - Home Loan: ₹43,391.16
+  - Car Loan: ₹10,427.78
+
+Total Expenses (approx.): ₹403,818.94
+
+Remaining Income (approx.): ₹96,181.06
+
+Analysis: While income is substantial, fixed expenses consume a large portion. Review areas for optimization."
+      },
+      {
+        "header": "2. Expense Optimization Suggestions",
+        "body": "1. Badminton (₹60,000): Since it is a reducible expense, consider reducing frequency or seeking cheaper alternatives. Explore community clubs or home workouts to lower costs.
+2. Groceries (₹50,000):  Compare prices at different stores. Reduce food waste through meal planning and proper storage. Consider bulk buying for non-perishable items.
+3. Rent (₹150,000): Evaluate if a smaller apartment or shared accommodation is possible in the long term.  Negotiate rental terms if feasible.
+4. Evaluate all expenses: Track spending meticulously for one month. Identify areas where small cuts can be made consistently. The 'little leaks sink the ship'."
+      },
+      {
+        "header": "3. Investment Recommendations",
+        "body": "With remaining income of ₹96,181.06, allocate funds strategically:
+1. High-Yield Savings Account (HYSA): Start with ₹20,000 for easy access and better interest rates.
+2. Mutual Funds (Equity): Invest ₹30,000 in diversified equity mutual funds through SIPs (Systematic Investment Plans) for long-term growth.
+3. Bonds/Debt Funds: Allocate ₹20,000 to debt funds for stability and lower risk.
+4. Index Funds: Consider ₹10,000 towards a Nifty 50 or Sensex index fund for broad market exposure.
+5. Direct Equity: If comfortable, invest a small portion (₹16,181.06) in fundamentally strong stocks after proper research.
+Rebalance portfolio annually."
+      },
+      {
+        "header": "4. Emergency Fund Advice",
+        "body": "Aim for an emergency fund covering 6-12 months of essential expenses (including EMIs). Based on current expenses (₹403,818.94), target ₹2,422,913.64 to ₹4,845,827.28.
+Prioritize building this fund before aggressive investing. Use the HYSA mentioned above or a liquid fund for easy access. Automate contributions monthly."
+      },
+      {
+        "header": "5. Long-Term Financial Planning",
+        "body": "1. Retirement Planning: Estimate retirement needs and start saving early using instruments like NPS (National Pension System) or retirement-focused mutual funds.
+2. Child's Education: Plan for future education expenses by investing in specific child plans or creating a dedicated investment portfolio.
+3. Insurance: Ensure adequate life and health insurance coverage. Review policy amounts periodically to reflect changing needs.
+4. Debt Management: Avoid taking on unnecessary debt. Prioritize paying down high-interest debts (e.g., credit card debt) aggressively."
+      },
+      {
+        "header": "6. Transaction Pattern Analysis",
+        "body": "Categorize transactions beyond current classifications. Identify recurring subscriptions or services that are underutilized or unnecessary. Look for trends in spending behavior, such as impulse purchases or weekend spikes, to identify areas needing control. Analyze transaction history for potential fraud or errors."
+      },
+      {
+        "header": "7. Spending Behavior Insights",
+        "body": "Self-awareness is key. Determine if spending habits are driven by emotional factors, social pressures, or genuine needs.  Develop strategies to counter impulsive spending, such as waiting periods before making purchases or avoiding shopping when stressed. Consider tracking spending using budgeting apps or spreadsheets for better visibility."
+      },
+      {
+        "header": "8. Cash Flow Optimization",
+        "body": "Maximize income by exploring side hustles or professional development to increase earning potential.  Negotiate better interest rates on loans or consider refinancing options. Automate bill payments to avoid late fees and maintain a good credit score.  Ensure all income sources are properly tracked and accounted for."
+      },
+      {
+        "header": "9. Banking Product Recommendations",
+        "body": "1. High-Yield Savings Account (HYSA): For emergency fund and short-term savings.
+2. Credit Card with Rewards: Use responsibly for eligible purchases and redeem rewards strategically.
+3. Demat Account: Essential for investing in stocks, ETFs, and mutual funds.
+4. Sweep-in Account: Automatically transfers excess funds from savings to a fixed deposit for higher interest.
+5. Consider a dedicated business account if you start any side hustles for clearer segregation of funds."
+      }
+    ],
+    "timestamp": "2025-06-23 05:48:13"
+  },
+  "bank_statement": null
+}
